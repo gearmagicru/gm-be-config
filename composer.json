@@ -1,13 +1,7 @@
 {
     "name": "gearmagicru/gm-be-config",
     "description": "Control Panel module \"Configuration\"",
-    "keywords": [
-        "gm",
-        "gearmagic",
-        "GM Panel",
-        "module",
-        "configuration"
-    ],
+    "keywords": ["gearmagic", "gm-panel", "gm-component", "gm-module", "module", "configuration"],
     "homepage": "https://apps.gearmagic.ru/component/gm-be-config",
     "type": "component",
     "license": "MIT",
